@@ -1,0 +1,14 @@
+[
+    {
+        "package": "glitter",
+        "url": "https://github.com/lvaudor/glitter"
+    },
+    {
+        "package": "cransays",
+        "url": "https://github.com/lockedata/cransays"
+    },
+    {
+        "package": "roblog",
+        "url": "https://github.com/ropenscilabs/roblog"
+    }
+]
