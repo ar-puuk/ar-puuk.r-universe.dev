@@ -1,5 +1,9 @@
 [
     {
+        "package": "archive",
+        "url": "https://github.com/r-lib/archive"
+    },
+    {
         "package": "annotater",
         "url": "https://github.com/luisDVA/annotater"
     },
@@ -52,8 +56,16 @@
         "url": "https://github.com/r-dbi/DBI"
     },
     {
+        "package": "devtools",
+        "url": "https://github.com/r-lib/devtools"
+    },
+    {
         "package": "dlookr",
         "url": "https://github.com/choonghyunryu/dlookr"
+    },
+    {
+        "package": "DT",
+        "url": "https://github.com/rstudio/DT"
     },
     {
         "package": "duckdb-r",
@@ -70,6 +82,10 @@
     {
         "package": "extrafont",
         "url": "https://github.com/wch/extrafont"
+    },
+    {
+        "package": "flextable",
+        "url": "https://github.com/davidgohel/flextable"
     },
     {
         "package": "foreign",
@@ -128,6 +144,10 @@
         "url": "https://github.com/hrbrmstr/hrbrthemes"
     },
     {
+        "package": "httr2",
+        "url": "https://github.com/r-lib/httr2"
+    },
+    {
         "package": "ipumsr",
         "url": "https://github.com/ipums/ipumsr"
     },
@@ -148,6 +168,10 @@
         "url": "https://github.com/jamgreen/lehdr"
     },
     {
+        "package": "magick",
+        "url": "https://github.com/ropensci/magick"
+    },
+    {
         "package": "mapview",
         "url": "https://github.com/r-spatial/mapview"
     },
@@ -156,12 +180,36 @@
         "url": "https://riatelab.github.io/mapsf"
     },
     {
+        "package": "mschart",
+        "url": "https://github.com/ardata-fr/mschart"
+    },
+    {
+        "package": "nanoparquet",
+        "url": "https://github.com/r-lib/nanoparquet"
+    },
+    {
         "package": "numetricApi",
         "url": "https://github.com/RonGuymon/numetricAPI"
     },
     {
         "package": "odbc",
         "url": "https://github.com/r-dbi/odbc"
+    },
+    {
+        "package": "officedown",
+        "url": "https://github.com/davidgohel/officedown"
+    },
+    {
+        "package": "officer",
+        "url": "https://github.com/davidgohel/officer"
+    },
+    {
+        "package": "openrouteservice",
+        "url": "https://github.com/GIScience/openrouteservice-r"
+    },
+    {
+        "package": "openxlsx",
+        "url": "https://github.com/ycphs/openxlsx"
     },
     {
         "package": "openxlsx2",
@@ -182,6 +230,10 @@
     {
         "package": "paletteer",
         "url": "https://github.com/EmilHvitfeldt/paletteer"
+    },
+    {
+        "package": "pandoc",
+        "url": "https://github.com/cderv/pandoc"
     },
     {
         "package": "parameters",
@@ -208,8 +260,24 @@
         "url": "https://github.com/ipeaGIT/r5r"
     },
     {
+        "package": "RArcInfo",
+        "url": "https://github.com/cran/RArcInfo"
+    },
+    {
         "package": "rayshader",
         "url": "https://github.com/tylermorganwall/rayshader"
+    },
+    {
+        "package": "RColorBrewer",
+        "url": "https://github.com/cran/RColorBrewer"
+    },
+    {
+        "package": "remotes",
+        "url": "https://github.com/r-lib/remotes"
+    },
+    {
+        "package": "rgdal",
+        "url": "https://r-forge.r-project.org/projects/rgdal"
     },
     {
         "package": "roblog",
@@ -222,6 +290,10 @@
     {
         "package": "RSQLite",
         "url": "https://github.com/r-dbi/RSQLite/"
+    },
+    {
+        "package": "rvg",
+        "url": "https://github.com/davidgohel/rvg"
     },
     {
         "package": "scales",
@@ -290,6 +362,10 @@
         "url": "https://github.com/medewitt/tidyqwi"
     },
     {
+        "package": "tidyselect",
+        "url": "https://github.com/r-lib/tidyselect"
+    },
+    {
         "package": "tidytable",
         "url": "https://github.com/markfairbanks/tidytable"
     },
@@ -312,5 +388,13 @@
     {
         "package": "tmaptools",
         "url": "https://github.com/r-tmap/tmaptools"
+    },
+    {
+        "package": "tinytex",
+        "url": "https://github.com/rstudio/tinytex"
+    },
+    {
+        "package": "zip",
+        "url": "https://github.com/r-lib/zip"
     }
 ]
