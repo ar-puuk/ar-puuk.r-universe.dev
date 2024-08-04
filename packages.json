@@ -297,6 +297,10 @@
         "url": "https://github.com/r-dbi/RPostgres"
     },
     {
+        "package": "RSocrata",
+        "url": "https://github.com/Chicago/RSocrata"
+    },
+    {
         "package": "RSQLite",
         "url": "https://github.com/r-dbi/RSQLite/"
     },
