@@ -52,6 +52,10 @@
         "url": "https://github.com/MilesMcBain/datapasta"
     },
     {
+        "package": "dataReporter",
+        "url": "https://github.com/ekstroem/dataReporter"
+    },
+    {
         "package": "dbi",
         "url": "https://github.com/r-dbi/DBI"
     },
@@ -130,6 +134,10 @@
     {
         "package": "gtfsio",
         "url": "https://github.com/r-transit/gtfsio"
+    },
+    {
+        "package": "gtfsrouter",
+        "url": "https://github.com/UrbanAnalyst/gtfsrouter"
     },
     {
         "package": "gtfstools",
@@ -257,7 +265,8 @@
     },
     {
         "package": "r5r",
-        "url": "https://github.com/ipeaGIT/r5r"
+        "url": "https://github.com/ipeaGIT/r5r",
+        "subdir": "r-package"
     },
     {
         "package": "RArcInfo",
@@ -342,8 +351,7 @@
     },
     {
         "package": "styler",
-        "url": "https://github.com/r-lib/styler",
-        "subdir": "pkg"
+        "url": "https://github.com/r-lib/styler"
     },
     {
         "package": "tictoc",
