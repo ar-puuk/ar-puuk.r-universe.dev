@@ -1,5 +1,9 @@
 [
     {
+        "package": "annotater",
+        "url": "https://github.com/luisDVA/annotater"
+    },
+    {
         "package": "arcgis",
         "url": "https://github.com/R-ArcGIS/arcgis"
     },
@@ -10,6 +14,14 @@
     {
         "package": "bbplot",
         "url": "https://github.com/bbc/bbplot"
+    },
+    {
+        "package": "cartogram",
+        "url": "https://sjewo.github.io/cartogram"
+    },
+    {
+        "package": "censusapi",
+        "url": "https://github.com/hrecht/censusapi"
     },
     {
         "package": "cransays",
@@ -28,20 +40,84 @@
         "url": "https://github.com/Rdatatable/data.table"
     },
     {
+        "package": "datapasta",
+        "url": "https://github.com/MilesMcBain/datapasta"
+    },
+    {
+        "package": "dbi",
+        "url": "https://github.com/r-dbi/DBI"
+    },
+    {
+        "package": "duckdb-r",
+        "url": "https://github.com/duckdb/duckdb-r"
+    },
+    {
+        "package": "duckplyr",
+        "url": "https://github.com/duckdblabs/duckplyr"
+    },
+    {
+        "package": "esquisse",
+        "url": "https://github.com/dreamRs/esquisse"
+    },
+    {
         "package": "extrafont",
         "url": "https://github.com/wch/extrafont"
+    },
+    {
+        "package": "foreign",
+        "url": "https://svn.r-project.org/R-packages/trunk/foreign"
+    },
+    {
+        "package": "formatR",
+        "url": "https://github.com/yihui/formatR"
+    },
+    {
+        "package": "future",
+        "url": "https://github.com/HenrikBengtsson/future"
+    },
+    {
+        "package": "ggstatsplot",
+        "url": "https://github.com/IndrajeetPatil/ggstatsplot"
+    },
+    {
+        "package": "ggThemeAssist",
+        "url": "https://github.com/calligross/ggthemeassist"
+    },
+    {
+        "package": "ggthemes",
+        "url": "https://github.com/jrnold/ggthemes"
     },
     {
         "package": "glitter",
         "url": "https://github.com/lvaudor/glitter"
     },
     {
+        "package": "gridExtra",
+        "url": "https://github.com/baptiste/gridextra"
+    },
+    {
         "package": "gt",
         "url": "https://github.com/rstudio/gt"
     },
     {
+        "package": "gtExtras",
+        "url": "https://github.com/jthomasmock/gtExtras"
+    },
+    {
+        "package": "gtfsio",
+        "url": "https://github.com/r-transit/gtfsio"
+    },
+    {
+        "package": "gtfstools",
+        "url": "https://github.com/ipeaGIT/gtfstools"
+    },
+    {
         "package": "gtsummary",
         "url": "https://github.com/ddsjoberg/gtsummary"
+    },
+    {
+        "package": "hrbrthemes",
+        "url": "https://github.com/hrbrmstr/hrbrthemes"
     },
     {
         "package": "ipumsr",
@@ -56,6 +132,10 @@
         "url": "https://github.com/jamovi/jmv"
     },
     {
+        "package": "jsonlite",
+        "url": "https://github.com/jeroen/jsonlite"
+    },
+    {
         "package": "lehdr",
         "url": "https://github.com/jamgreen/lehdr"
     },
@@ -64,8 +144,16 @@
         "url": "https://github.com/r-spatial/mapview"
     },
     {
+        "package": "mapsf",
+        "url": "https://riatelab.github.io/mapsf"
+    },
+    {
         "package": "numetricApi",
         "url": "https://github.com/RonGuymon/numetricAPI"
+    },
+    {
+        "package": "odbc",
+        "url": "https://github.com/r-dbi/odbc"
     },
     {
         "package": "openxlsx2",
@@ -84,12 +172,52 @@
         "url": "https://github.com/r-lib/pak"
     },
     {
+        "package": "paletteer",
+        "url": "https://github.com/EmilHvitfeldt/paletteer"
+    },
+    {
+        "package": "parameters",
+        "url": "https://github.com/easystats/parameters"
+    },
+    {
+        "package": "patchwork",
+        "url": "https://github.com/thomasp85/patchwork"
+    },
+    {
         "package": "pdftools",
         "url": "https://github.com/ropensci/pdftools"
     },
     {
+        "package": "plotly",
+        "url": "https://github.com/plotly/plotly"
+    },
+    {
+        "package": "polars",
+        "url": "https://github.com/pola-rs/r-polars"
+    },
+    {
+        "package": "r5r",
+        "url": "https://github.com/ipeaGIT/r5r"
+    },
+    {
+        "package": "rayshader",
+        "url": "https://github.com/tylermorganwall/rayshader"
+    },
+    {
         "package": "roblog",
         "url": "https://github.com/ropenscilabs/roblog"
+    },
+    {
+        "package": "RPostgres",
+        "url": "https://github.com/r-dbi/RPostgres"
+    },
+    {
+        "package": "RSQLite",
+        "url": "https://github.com/r-dbi/RSQLite/"
+    },
+    {
+        "package": "scales",
+        "url": "https://github.com/r-lib/scales"
     },
     {
         "package": "sf",
@@ -100,12 +228,28 @@
         "url": "https://github.com/josiahparry/sfdep"
     },
     {
+        "package": "sfheaders",
+        "url": "https://github.com/dcooley/sfheaders"
+    },
+    {
         "package": "showtext",
         "url": "https://github.com/yixuan/showtext"
     },
     {
+        "package": "sjPlot",
+        "url": "https://github.com/strengejacke/sjPlot"
+    },
+    {
         "package": "spatstat",
         "url": "https://github.com/spatstat/spatstat"
+    },
+    {
+        "package": "stargazer",
+        "url": "https://github.com/spatstat/spatstat"
+    },
+    {
+        "package": "stplanr",
+        "url": "https://github.com/ropensci/stplanr"
     },
     {
         "package": "stringdist",
@@ -113,8 +257,33 @@
         "subdir": "pkg"
     },
     {
+        "package": "styler",
+        "url": "https://github.com/r-lib/styler",
+        "subdir": "pkg"
+    },
+    {
+        "package": "tictoc",
+        "url": "https://github.com/jabiru/tictoc"
+    },
+    {
         "package": "tidycensus",
         "url": "https://github.com/walkerke/tidycensus"
+    },
+    {
+        "package": "tidymodels",
+        "url": "https://github.com/tidymodels/tidymodels"
+    },
+    {
+        "package": "tidyqwi",
+        "url": "https://github.com/medewitt/tidyqwi"
+    },
+    {
+        "package": "tidytable",
+        "url": "https://github.com/markfairbanks/tidytable"
+    },
+    {
+        "package": "tidytransit",
+        "url": "https://github.com/r-transit/tidytransit"
     },
     {
         "package": "tigris",
@@ -127,5 +296,9 @@
     {
         "package": "tmap",
         "url": "https://github.com/r-tmap/tmap"
+    },
+    {
+        "package": "tmaptools",
+        "url": "https://github.com/r-tmap/tmaptools"
     }
 ]
