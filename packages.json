@@ -21,7 +21,7 @@
     },
     {
         "package": "cartogram",
-        "url": "https://sjewo.github.io/cartogram"
+        "url": "https://github.com/sjewo/cartogram"
     },
     {
         "package": "censusapi",
@@ -56,7 +56,7 @@
         "url": "https://github.com/ekstroem/dataReporter"
     },
     {
-        "package": "dbi",
+        "package": "DBI",
         "url": "https://github.com/r-dbi/DBI"
     },
     {
@@ -72,7 +72,7 @@
         "url": "https://github.com/rstudio/DT"
     },
     {
-        "package": "duckdb-r",
+        "package": "duckdb",
         "url": "https://github.com/duckdb/duckdb-r"
     },
     {
@@ -185,7 +185,7 @@
     },
     {
         "package": "mapsf",
-        "url": "https://riatelab.github.io/mapsf"
+        "url": "https://github.com/riatelab/mapsf"
     },
     {
         "package": "mschart",
@@ -338,7 +338,7 @@
     },
     {
         "package": "stargazer",
-        "url": "https://github.com/spatstat/spatstat"
+        "url": "https://github.com/cran/stargazer"
     },
     {
         "package": "stplanr",
