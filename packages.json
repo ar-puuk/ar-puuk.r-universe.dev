@@ -40,12 +40,20 @@
         "url": "https://github.com/Rdatatable/data.table"
     },
     {
+        "package": "dataMaid",
+        "url": "https://github.com/ekstroem/dataMaid"
+    },
+    {
         "package": "datapasta",
         "url": "https://github.com/MilesMcBain/datapasta"
     },
     {
         "package": "dbi",
         "url": "https://github.com/r-dbi/DBI"
+    },
+    {
+        "package": "dlookr",
+        "url": "https://github.com/choonghyunryu/dlookr"
     },
     {
         "package": "duckdb-r",
@@ -238,6 +246,10 @@
     {
         "package": "sjPlot",
         "url": "https://github.com/strengejacke/sjPlot"
+    },
+    {
+        "package": "skimr",
+        "url": "https://github.com/ropensci/skimr"
     },
     {
         "package": "spatstat",
