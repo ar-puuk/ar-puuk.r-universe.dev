@@ -1,14 +1,131 @@
 [
     {
-        "package": "glitter",
-        "url": "https://github.com/lvaudor/glitter"
+        "package": "arcgis",
+        "url": "https://github.com/R-ArcGIS/arcgis"
+    },
+    {
+        "package": "areal",
+        "url": "https://github.com/chris-prener/areal"
+    },
+    {
+        "package": "bbplot",
+        "url": "https://github.com/bbc/bbplot"
     },
     {
         "package": "cransays",
         "url": "https://github.com/lockedata/cransays"
     },
     {
+        "package": "CTPPr",
+        "url": "https://github.com/Westat-Transportation/CTPPr"
+    },
+    {
+        "package": "curl",
+        "url": "https://github.com/jeroen/curl"
+    },
+    {
+        "package": "data.table",
+        "url": "https://github.com/Rdatatable/data.table"
+    },
+    {
+        "package": "extrafont",
+        "url": "https://github.com/wch/extrafont"
+    },
+    {
+        "package": "glitter",
+        "url": "https://github.com/lvaudor/glitter"
+    },
+    {
+        "package": "gt",
+        "url": "https://github.com/rstudio/gt"
+    },
+    {
+        "package": "gtsummary",
+        "url": "https://github.com/ddsjoberg/gtsummary"
+    },
+    {
+        "package": "ipumsr",
+        "url": "https://github.com/ipums/ipumsr"
+    },
+    {
+        "package": "janitor",
+        "url": "https://github.com/sfirke/janitor"
+    },
+    {
+        "package": "jmv",
+        "url": "https://github.com/jamovi/jmv"
+    },
+    {
+        "package": "lehdr",
+        "url": "https://github.com/jamgreen/lehdr"
+    },
+    {
+        "package": "mapview",
+        "url": "https://github.com/r-spatial/mapview"
+    },
+    {
+        "package": "numetricApi",
+        "url": "https://github.com/RonGuymon/numetricAPI"
+    },
+    {
+        "package": "openxlsx2",
+        "url": "https://github.com/JanMarvin/openxlsx2"
+    },
+    {
+        "package": "overturemapsr",
+        "url": "https://github.com/denironyx/overturemapsr"
+    },
+    {
+        "package": "pacman",
+        "url": "https://github.com/trinker/pacman"
+    },
+    {
+        "package": "pak",
+        "url": "https://github.com/r-lib/pak"
+    },
+    {
+        "package": "pdftools",
+        "url": "https://github.com/ropensci/pdftools"
+    },
+    {
         "package": "roblog",
         "url": "https://github.com/ropenscilabs/roblog"
+    },
+    {
+        "package": "sf",
+        "url": "https://github.com/r-spatial/sf"
+    },
+    {
+        "package": "sfdep",
+        "url": "https://github.com/josiahparry/sfdep"
+    },
+    {
+        "package": "showtext",
+        "url": "https://github.com/yixuan/showtext"
+    },
+    {
+        "package": "spatstat",
+        "url": "https://github.com/spatstat/spatstat"
+    },
+    {
+        "package": "stringdist",
+        "url": "https://github.com/markvanderloo/stringdist",
+        "subdir": "pkg"
+    },
+    {
+        "package": "tidycensus",
+        "url": "https://github.com/walkerke/tidycensus"
+    },
+    {
+        "package": "tigris",
+        "url": "https://github.com/walkerke/tigris"
+    },
+    {
+        "package": "tidyverse",
+        "url": "https://github.com/tidyverse/tidyverse"
+    },
+    {
+        "package": "tmap",
+        "url": "https://github.com/r-tmap/tmap"
     }
 ]
