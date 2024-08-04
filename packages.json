@@ -354,6 +354,10 @@
         "url": "https://github.com/walkerke/tidycensus"
     },
     {
+        "package": "tidylodes",
+        "url": "https://github.com/patrickballantyne/tidylodes"
+    },
+    {
         "package": "tidymodels",
         "url": "https://github.com/tidymodels/tidymodels"
     },
