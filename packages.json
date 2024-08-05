@@ -93,7 +93,7 @@
     },
     {
         "package": "foreign",
-        "url": "https://svn.r-project.org/R-packages/trunk/foreign"
+        "url": "https://github.com/cran/foreign"
     },
     {
         "package": "formatR",
@@ -286,7 +286,7 @@
     },
     {
         "package": "rgdal",
-        "url": "https://r-forge.r-project.org/projects/rgdal"
+        "url": "https://github.com/cran/rgdal"
     },
     {
         "package": "roblog",
@@ -367,7 +367,7 @@
     },
     {
         "package": "tidylodes",
-        "url": "https://github.com/patrickballantyne/tidylodes"
+        "url": "https://github.com/ar-puuk/tidylodes"
     },
     {
         "package": "tidymodels",
