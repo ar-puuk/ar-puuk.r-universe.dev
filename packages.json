@@ -27,6 +27,10 @@
         "package": "censusapi",
         "url": "https://github.com/hrecht/censusapi"
     },
+	{
+        "package": "collapse",
+        "url": "https://github.com/SebKrantz/collapse/"
+    },
     {
         "package": "cransays",
         "url": "https://github.com/lockedata/cransays"
@@ -146,6 +150,10 @@
     {
         "package": "gtsummary",
         "url": "https://github.com/ddsjoberg/gtsummary"
+    },
+	{
+        "package": "GWalkR",
+        "url": "https://github.com/Kanaries/GWalkR"
     },
     {
         "package": "hrbrthemes",
