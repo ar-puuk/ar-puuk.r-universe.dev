@@ -204,6 +204,10 @@
         "url": "https://github.com/r-lib/nanoparquet"
     },
     {
+        "package": "ntdr",
+        "url": "https://github.com/vgXhc/ntdr"
+    },
+    {
         "package": "numetricApi",
         "url": "https://github.com/RonGuymon/numetricAPI"
     },
@@ -272,6 +276,10 @@
         "url": "https://github.com/pola-rs/r-polars"
     },
     {
+        "package": "polite",
+        "url": "https://github.com/dmi3kno/polite"
+    },
+    {
         "package": "r5r",
         "url": "https://github.com/ipeaGIT/r5r",
         "subdir": "r-package"
@@ -295,6 +303,10 @@
     {
         "package": "rgdal",
         "url": "https://github.com/cran/rgdal"
+    },
+    {
+        "package": "rgeopi",
+        "url": "https://github.com/ModernMobilityPartners/rgeopi"
     },
     {
         "package": "roblog",
