@@ -280,6 +280,10 @@
         "url": "https://github.com/dmi3kno/polite"
     },
     {
+        "package": "pukRhelpers",
+        "url": "https://github.com/ar-puuk/pukRhelpers"
+    },
+    {
         "package": "r5r",
         "url": "https://github.com/ipeaGIT/r5r",
         "subdir": "r-package"
